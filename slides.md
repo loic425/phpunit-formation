@@ -49,3 +49,7 @@ src: ./pages/02_get_collection.md
 ---
 src: ./pages/03_create_book.md
 ---
+
+---
+src: ./pages/04_create_invalid_book.md
+---
