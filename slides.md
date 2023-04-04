@@ -53,3 +53,7 @@ src: ./pages/04_create_invalid_book.md
 ---
 src: ./pages/05_update_book.md
 ---
+
+---
+src: ./pages/06_update_partial_book.md
+---
