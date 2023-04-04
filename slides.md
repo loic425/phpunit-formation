@@ -39,5 +39,9 @@ avec Sylius & Monofony
 </div>
 
 ---
-src: ./pages/01.md
+src: ./pages/01_api_test.md
+---
+
+---
+src: ./pages/02_get_collection.md
 ---
