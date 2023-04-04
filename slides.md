@@ -57,3 +57,7 @@ src: ./pages/05_update_book.md
 ---
 src: ./pages/06_update_partial_book.md
 ---
+
+---
+src: ./pages/07_delete_book.md
+---
