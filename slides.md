@@ -28,14 +28,10 @@ css: unocss
 
 # PHPUnit Formation
 
-avec Sylius & Monofony
+avec API Platform
 
 <div align="center">
-<img class="w-75" align="center" src="https://sylius.com/wp-content/uploads/2021/03/sylius-logo_sylius-logo-light-1024x422.jpg">
-</div>
-
-<div align="center">
-<img class="w-75" src="https://raw.githubusercontent.com/Monofony/Monofony/0.x/docs/_images/doc_logo.png">
+<img class="w-75" src="https://api-platform.com/logo.png">
 </div>
 
 ---
