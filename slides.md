@@ -45,3 +45,7 @@ src: ./pages/01_api_test.md
 ---
 src: ./pages/02_get_collection.md
 ---
+
+---
+src: ./pages/03_create_book.md
+---

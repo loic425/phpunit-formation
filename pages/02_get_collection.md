@@ -1,3 +1,7 @@
+---
+transition: fade
+---
+
 # Get collection
 
 ```php {all|10|12|12,4|14-15|17|18-19}
